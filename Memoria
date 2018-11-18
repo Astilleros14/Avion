@@ -1,0 +1,81 @@
+\documentclass[a4paper,12pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+
+
+
+\begin{document}
+
+\chapter{Memoria}
+\label{chap:memoria}
+
+\section{Presentación}
+\label{sec:presentacion}
+
+
+\subsection{Exposición}
+\label{sec:exposicion}
+descripcion general del proyecto
+
+\subsection{Motivación}
+\label{sec:motivacion}
+
+
+\paragraph{Personal}
+por qué a mí me gusta este proyecto.
+
+\paragraph{Estado del Arte}
+diseño tren de aterrizaje
+diseño de flap fowler
+flaperon
+conocimiento principios de diseño aerodinamicos
+conocimiento de los mecanismos existentes para el control de las superficies aerodinamicas
+
+
+\paragraph{Innovación}
+diseño de mecanismo para cambiar angulo de incidencia
+diseño de mecanismo para cambiar el volumen humedo de los estabilizadores
+prueba de diseño sobre modelo real
+
+
+
+\subsection{Objetivos}
+\label{sec:objetivos}
+Diseño de un avión teledirigido capaz de: 
+\begin{enumerate}
+ \item Levantar 4kg.
+ \item Portar y controlar una cámara con Gimball.
+ \item Autocentrar el centro de gravedad en el previo al vuelo.
+ \item con angulo de incidencia regulable.
+ \item con cola de longitud variable.
+ \item con tren de aterrizaje retráctil
+ \item con superficies aerodinámicas intercambiables.
+ 
+\end{enumerate}
+
+
+\section{Descriptiva}
+\label{sec:descriptiva}
+
+\subsection{Fuerzas en Vuelo}
+\label{sec:fuerzas_en_vuelo}
+
+En una ĺinea 
+
+\begin{equation}
+\frac{1}{2} \rho v^2 + \rho g z + P = K
+\end{equation}
+
+\chapter{Cálculos}
+\label{chap:calculos}
+Calculo del centro de gravedad según las reacciones
+
+\chapter{Anexos}
+\label{chap:anexos}
+
+\chapter{Bibliografía}
+\label{chap:bibliografia}
+
+
+
+\end{document}

@@ -1,0 +1,11 @@
+-fuselaje monocasco con anillos unidos mediante remaches 
+-cola clasica (simbolo perpendicularidad)
+-numero de reynols para calcular capa limite y angulos de ataque del ala
+- fuerza de sustentacion  L=1/2·(densidad del aire kg/m^3)·(velocidad del aire m/s)^2·(superficie alar m^2)·(coeficiente de sustentaciones que varia según el tipo de ala)
+- fuerza de arrastre D=1/2·(densidad del aire kg/m^3)·(velocidad del aire m/s)^2·(superficie alar m^2)·(coeficiente de arrastre que varia según el ala)
+-la fuerza de sustentación varia con la posición del ángulo de ataque
+-calculos de ala trapecial diseño_y_calculo_ejemplo pag76.
+-programa de cálculos AC-SIZE. Valores de entrada W0,We,W(crew+pay)
+-pot/W=a·Vmax^c. a y c coeficientes de tabla 5.1
+-
+
